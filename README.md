@@ -1,11 +1,3 @@
-  ### Hi there 👋
-
-<!--
-**imamhafiidz/imamhafiidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 # Hi there, I'm Imam - aka [imamhafiidz](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently seek a job
